@@ -1,7 +1,7 @@
 import { ReactElement } from 'react';
 import { DefaultLayout } from '../components/layouts/DefaultLayout';
 import { CustomHead } from '../components/seo/CustomHead';
-import { Seo } from '../../constants/seo';
+import { Seo } from '../constants/seo';
 
 export default function value() {
   return (
