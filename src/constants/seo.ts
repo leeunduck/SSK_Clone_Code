@@ -1,7 +1,7 @@
 export const Seo = {
   Title: {
     //main: 'Main',
-    value: 'Value',
+    intro: 'Intro',
     //team: 'Team',
     //work: 'Work',
     //edu: 'Edu',
