@@ -6,7 +6,7 @@ export const CustomHead = ({ title }: CustomHeadProps) => {
       <meta charSet='UTF-8' />
       <meta name='viewport' content='user-scalable=no, width=device-width, initial-scale=1' />
       <meta httpEquiv='x-ua-compatible' content='ie=edge' />
-      <title>{`${title} | Boilerplate`}</title>
+      <title>{`${title} | 연세대학교 ADDS`}</title>
     </Head>
   );
 };
