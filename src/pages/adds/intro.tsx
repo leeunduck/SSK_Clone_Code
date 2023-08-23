@@ -1,4 +1,4 @@
-import { IntroPage } from '@/components/pages/intro';
+import { IntroPage } from '../../components/pages/intro/IntroPage';
 import { setLayout } from '@/utils/setLayout';
 import { DefaultLayout } from '../../components/layouts/DefaultLayout';
 import { CustomHead } from '../../components/seo/CustomHead';
