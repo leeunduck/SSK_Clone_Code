@@ -32,4 +32,6 @@ export const Colors = {
   headerDefault: 'rgba(226, 237, 251, 0.9)',
   headerHover: 'rgba(141, 188, 255, 0.5)',
   headerBorder: '#8dbcff',
+
+  memberShadow: '#0000001A',
 } as const;
